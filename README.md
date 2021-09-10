@@ -4,7 +4,7 @@ My name is Artyom and I'm a system and technical game designer at Ciliz.
 
 Game systems, mechanics, scripting and boss fights are my passion.
 
-You can learn more about my experience in my [*CV*](https://drive.google.com/file/d/1cWguLDwXgFBUwuQruIbkiXVI8ffUWL8N/view?usp=sharing).
+You can learn more about my experience in my [**CV**](https://drive.google.com/file/d/1cWguLDwXgFBUwuQruIbkiXVI8ffUWL8N/view?usp=sharing).
 
 # Game jams 🕹️
 
@@ -24,9 +24,10 @@ I also have a [**simple template project**](https://github.com/TrickyFatCat/game
 
 If you have any questions about game design, don't hesitate to ask me!
 
-* Twitter - [*@tricky_fat_cat*](https://twitter.com/tricky_fat_cat)
-* Email - *tricky.fat.cat@gmail.com*
-* Website - [*www.trickyfatcat.com*](https://www.trickyfatcat.com)
+* Twitter - [**@tricky_fat_cat**](https://twitter.com/tricky_fat_cat)
+* Email - **tricky.fat.cat@gmail.com**
+* Website - [**www.trickyfatcat.com**](https://www.trickyfatcat.com)
+* Telegram - [**@Tricky_Fat_Cat**](https://t.me/Tricky_Fat_Cat)
 
 <!--
 **TrickyFatCat/TrickyFatCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
