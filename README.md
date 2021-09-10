@@ -16,7 +16,7 @@ You can find my jam games on my [**itch.io page**](https://tricky-fat-cat.itch.i
 
 I'm not a professional programmer, however, I'm keen on developing my coding skills. It's fun and also very useful at work and game jams!
 
-Currently, I spend my spare time learning C++ and UE4. Besides, I'm working on [**a plugin for rapid prototyping in UE4**](https://github.com/TrickyFatCat/TrickyPrototyping).
+Currently, studying C++ and UE4 is my primary activity during my spare time. Besides, I'm working on [**a plugin for rapid prototyping in UE4**](https://github.com/TrickyFatCat/TrickyPrototyping).
 
 I also have a [**simple template project**](https://github.com/TrickyFatCat/game-jam-template) for prototyping in Godot engine.
 
