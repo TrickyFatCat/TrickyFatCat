@@ -8,7 +8,7 @@ You can learn more about my experience in my [**CV**](https://drive.google.com/f
 
 # Game jams 🕹️
 
-In addition, I'm a game jam enthusiast, every year I participate in [**LudumDare**](www.ldjam.com) and GMTKjam.
+In addition, I'm a game jam enthusiast, every year I participate in [**LudumDare**](https://ldjam.com/users/tricky-fat-cat/games) and GMTKjam.
 
 You can find my jam games on my [**itch.io page**](https://tricky-fat-cat.itch.io/).
 
