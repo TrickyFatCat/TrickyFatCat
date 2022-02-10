@@ -16,9 +16,12 @@ You can find my jam games on my [**itch.io page**](https://tricky-fat-cat.itch.i
 
 I'm not a professional programmer, however, I'm keen on developing my coding skills. It's fun and also very useful at work and game jams!
 
-Currently, studying C++ and UE4 is my primary activity during my spare time. Besides, I'm working on [**a plugin for rapid prototyping in UE4**](https://github.com/TrickyFatCat/TrickyPrototyping).
+Currently, studying C++ and UE4 is my primary activity during my spare time.
 
-I also have a [**simple template project**](https://github.com/TrickyFatCat/game-jam-template) for prototyping in Godot engine.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TrickyFatCat&show_icons=true&theme=radical&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrickyFatCat&theme=radical&langs_count=3)](https://github.com/TrickyFatCat/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyPrototyping&theme=radical)](https://github.com/TrickyFatCat/TrickyPrototyping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyAutomation&theme=radical&line_height=25)](https://github.com/TrickyFatCat/TrickyAutomation)
 
 # Contacts 📧
 
@@ -26,8 +29,10 @@ If you have any questions about game design, don't hesitate to ask me!
 
 * Twitter - [**@tricky_fat_cat**](https://twitter.com/tricky_fat_cat)
 * Email - **tricky.fat.cat@gmail.com**
-* Website - [**www.trickyfatcat.com**](https://www.trickyfatcat.com)
+* Website - [**www.trickyfatcat.com**](https://www.tricky-fat-cat.com)
 * Telegram - [**@Tricky_Fat_Cat**](https://t.me/Tricky_Fat_Cat)
+
+
 
 <!--
 **TrickyFatCat/TrickyFatCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
