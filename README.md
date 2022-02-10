@@ -16,13 +16,17 @@ My name is Artyom and I'm a system and technical game designer currently based i
 
 ## 🕹️ Game design
 
-I've been working as a game designer for about 11 years; and specialize in system and technical game design. I'm pattionate about designing, balancing, and prototyping gameplay mechanics, enemies AI, boss fights and combat systems using both visual scripting languages and text-based programming languages such as Blueprints and C++ respectively.
+I've been working as a game designer for about 11 years; and specialize in system and technical game design.
+
+I'm pattionate about designing, balancing, and prototyping gameplay mechanics, enemies AI, boss fights and combat systems using both visual scripting languages and text-based programming languages such as Blueprints and C++ respectively.
 
 You can learn more about my experience in my [**CV**](https://drive.google.com/file/d/1cWguLDwXgFBUwuQruIbkiXVI8ffUWL8N/view?usp=sharing).
 
-### Speaker
+### :loudspeaker: Speaker
 
-Moreover, I'm keen on helping beginners to become gamedesigners. As a result, I'm a regular speaker at game development conferences, especially DevGAMM, where I deliver various speeches about game design.
+Moreover, I'm keen on helping beginners to become game designers.
+
+As a result, I'm a regular speaker at game development conferences, especially DevGAMM, where I deliver various speeches about game design.
 
 <div>
    <a href="https://www.youtube.com/playlist?list=PLcDX4SqmBXSaU2gT3GPxh41Jmy2HMpeLX">
@@ -30,7 +34,7 @@ Moreover, I'm keen on helping beginners to become gamedesigners. As a result, I'
   </a>
 </div>
 
-### Game jams
+### :space_invader: Game jams
 
 In addition, I'm a game jam enthusiast, every year I participate in [**LudumDare**](https://ldjam.com/users/tricky-fat-cat/games) and GMTKjam.
 
@@ -45,6 +49,6 @@ Currently, studying C++ and UE4 is my primary activity during my spare time.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TrickyFatCat&show_icons=true&theme=radical&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrickyFatCat&theme=radical&langs_count=3)](https://github.com/TrickyFatCat/github-readme-stats)
 
-### Current project
+### :building_construction:	Current project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyPrototyping&theme=radical)](https://github.com/TrickyFatCat/TrickyPrototyping)
