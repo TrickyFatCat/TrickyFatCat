@@ -1,6 +1,6 @@
 # Hello everyone 👋
 
-My name is Artyom and I'm a system and technical game designer at Ciliz.
+My name is Artyom and I'm a system and technical game designer.
 
 Game systems, mechanics, scripting and boss fights are my passion.
 
