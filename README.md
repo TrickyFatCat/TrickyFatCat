@@ -14,7 +14,7 @@ My name is Artyom and I'm a system and technical game designer currently based i
   </a>
 </div>
 
-## 🕹️ Game design
+## 🕹️ Game designer
 
 I've been working as a game designer for about 11 years; and specialize in system and technical game design.
 
@@ -34,7 +34,7 @@ As a result, I'm a regular speaker at game development conferences, especially D
   </a>
 </div>
 
-### :space_invader: Game jams
+### :space_invader: Game jams enthusiast
 
 In addition, I'm a game jam enthusiast, every year I participate in [**LudumDare**](https://ldjam.com/users/tricky-fat-cat/games) and GMTKjam.
 
