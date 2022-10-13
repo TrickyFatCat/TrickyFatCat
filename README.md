@@ -51,4 +51,6 @@ Currently, studying C++ and UE4 is my primary activity during my spare time.
 
 ### :building_construction:	Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyPrototyping&theme=radical)](https://github.com/TrickyFatCat/TrickyPrototyping)
+Currently I'm working on a Tricky Prototyping Collection. It's a collection of plugins made for rapid prototyping and game jamming in Unreal Engine.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyPrototyping&theme=radical)](https://github.com/TrickyFatCat/TrickyAnimationComponents)
