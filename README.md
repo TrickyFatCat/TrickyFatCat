@@ -1,6 +1,6 @@
 # 👋 Hello everyone
 
-My name is Artyom and I'm a system and technical game designer currently based in Moscow.
+My name is Artyom and I'm a system and technical game designer currently based in Helsinki.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/trickyfatcat/?locale=en_US">
