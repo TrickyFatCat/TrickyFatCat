@@ -53,4 +53,6 @@ Currently, studying C++ and UE4 is my primary activity during my spare time.
 
 Currently I'm working on a Tricky Prototyping Collection. It's a collection of plugins made for rapid prototyping and game jamming in Unreal Engine.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyAnimationComponents&theme=radical)](https://github.com/TrickyFatCat/TrickyAnimationComponents)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyAnimationComponents&theme=radical)](https://github.com/TrickyFatCat/TrickyAnimationComponents) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyInteractionSystem&theme=radical)](https://github.com/TrickyFatCat/TrickyInteractionSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyKeyringSystem&theme=radical)](https://github.com/TrickyFatCat/TrickyKeyringSystem) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyGameMode&theme=radical)](https://github.com/TrickyFatCat/TrickyGameMode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrickyFatCat&repo=TrickyFunctionLibrary&theme=radical)](https://github.com/TrickyFatCat/TrickyFunctionLibrary)
