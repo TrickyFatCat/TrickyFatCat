@@ -18,7 +18,7 @@ My name is Artyom and I'm a system and technical game designer currently based i
 
 I've been working as a game designer for about 13 years; and specialize in system and technical game design.
 
-I'm pattionate about designing, balancing, and prototyping gameplay mechanics, enemies AI, boss fights and combat systems using both visual scripting languages and text-based programming languages such as Blueprints and C++ respectively.
+I'm pationate about designing, balancing, and prototyping gameplay mechanics, enemies AI, boss fights and combat systems using both visual scripting languages and text-based programming languages such as Blueprints and C++ respectively.
 
 You can learn more about my experience in my [**CV**](https://drive.google.com/file/d/1cWguLDwXgFBUwuQruIbkiXVI8ffUWL8N/view?usp=sharing).
 
